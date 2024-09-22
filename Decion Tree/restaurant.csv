@@ -1,0 +1,13 @@
+Yes,No,No,Yes,None,$$$,No,Yes,French,0-10,No
+No,Yes,Yes,Yes,Some,$,No,No,Thai,10-30,Yes
+Yes,No,No,No,Full,$$,Yes,Yes,Burger,30-60,Yes
+Yes,No,Yes,Yes,Full,$$$,No,No,Italian,>60,No
+No,Yes,No,No,Some,$,Yes,Yes,Burger,10-30,Yes
+Yes,No,No,Yes,Full,$$,No,Yes,Thai,30-60,Yes
+Yes,No,Yes,No,Full,$$$,Yes,Yes,French,0-10,No
+No,Yes,No,No,None,$,Yes,No,Italian,0-10,No
+Yes,Yes,Yes,Yes,Some,$$,No,No,French,10-30,Yes
+Yes,Yes,Yes,Yes,Full,$$$,Yes,Yes,Italian,>60,No
+No,No,No,No,None,$,Yes,No,Burger,0-10,No
+Yes,No,Yes,Yes,Some,$$,Yes,Yes,Thai,10-30,Yes
+
